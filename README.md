@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://github.com/QingChu109945/QingChu109945.github.io/assets/images/keeppuresmile_430.jpg)
+![](https://github.com/QingChu109945/QingChu109945.github.io/assets/images/keeppuresmile_430.jpg)
