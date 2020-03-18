@@ -21,7 +21,7 @@ url: QingChu109945.github.io
 enforce_ssl: 
 
 ## Gem
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-geo-pattern
   - rouge
