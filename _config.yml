@@ -147,20 +147,7 @@ navs:
         subLabel: Python 技术
         target: _blank
 
- -
-    
-    href: /sql.html
-    label: sqlmaster
-    subnav:
-
-      -
-        subHref: /sql.html
-        subLabel: sql 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
+ 
   -
     href: /archives.html
     label: Archives
