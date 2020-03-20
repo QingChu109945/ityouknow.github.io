@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Python 系列文章
+title: 数据库和Python
 titlebar: python
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Python 学习教程系列文章
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 数据库和Python 学习教程系列
 menu: python
 css: ['blog-page.css']
 permalink: /python
