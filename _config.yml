@@ -102,7 +102,11 @@ navs:
     href: /cartoon.html
     label: 漫画
     target: _self
-
+  -
+    href: /math.html
+    label:数学啦
+    target: _self
+    
   -
     href: /spring-boot.html
     label: Spring Boot
@@ -152,6 +156,9 @@ navs:
     href: /archives.html
     label: Archives
     target: _self
+
+
+
 
 
 
