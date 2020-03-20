@@ -139,7 +139,7 @@ navs:
   -
     
     href: /python.html
-    label: 数据库系统工程师和Python
+    label: 数据库和Python
     subnav:
 
       -
@@ -151,13 +151,13 @@ navs:
         subLabel: Python 技术
         target: _blank
 
- 
-  -
-    href: /archives.html
-    label: Archives
-    target: _self
 
+  # -
+  #  href: /archives.html
+  #  label: Archives
+  # target: _self
 
+  
 
 
 
